@@ -1,5 +1,5 @@
 program main
 
-	print*, "I worship hot goth girls."
-
+	print*, "Hello from the underworld!!!
+"
 end program main
