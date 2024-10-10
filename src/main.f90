@@ -1,5 +1,5 @@
 program main
 
-	print*, "Hello World, beibis!"
+	print*, "I worship hot goth girls."
 
 end program main
