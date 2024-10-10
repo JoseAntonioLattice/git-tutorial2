@@ -1,5 +1,5 @@
 program main
 
-	print*, "Hello World, beibis!"
+	print*, "Hello World, beibis and girls!"
 
 end program main
